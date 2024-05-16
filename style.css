@@ -77,3 +77,10 @@ th:active{
 .search::placeholder {
     color: white;
 }
+
+.button{
+    border: none;
+    background-color: unset;
+    outline: none;
+    color: white;
+}
